@@ -18,6 +18,13 @@
                         $(".nav").hide();
                     }
                 });
+				 $('.zolo-btn-play').click(function zolo_() {
+            var player = jQuery(this).closest('.zolo-player')
+              , header = jQuery('.zolo-player-wrapper')
+              , iframe = jQuery('<iframe type="text/html" frameborder="0" style="width:100%;height:479px;"></iframe>');
+            iframe.attr('src', player.data('target'));
+            header.html('').append(iframe);
+        });
             })
         </script>
     </head>
@@ -29,7 +36,9 @@
 
             <!--end.blocks-->
            <div class="block orange_bg padding_box" id="video">
-	<div class="block" style="text-align:center"><iframe style="margin:0 auto;" width="853" height="480" src="//www.youtube.com/embed/i5u12Wt95Nk" frameborder="0" controls="0" showinfo="0" allowfullscreen></iframe></div>
+	<div class="block" style="text-align:center">
+    <div class="zolo-player-wrapper"><div data-target="//www.youtube.com/embed/i5u12Wt95Nk?autoplay=1&amp;controls=0&amp;modestbranding=1&amp;showinfo=0" class="zolo-player"><div class="zolo-btn-container"><div class="zolo-btn-play"></div></div></div></div>
+    </div>
 </div>
 <!--end.blocks-->
 

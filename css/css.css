@@ -201,6 +201,14 @@ div.it_block1{padding:60px 25px;line-height:1.3;}
 .float_box dd{width:100%;padding:3px 0;overflow:hidden;}
 .float_box dd em{float:left;width:30px;}
 .float_box dd span{float:left;}
+.zolo-player-wrapper{position:relative;height:479px;background:url(../images/blogo.png) center center no-repeat;}
+.zolo-btn-play{   position:absolute; background-image: url(../images/play-btn.png);
+    cursor: pointer;
+    display: inline-block;
+    height: 111px;
+	top:50%;left:50%;margin:-55px 0 0 -55px;
+    padding: 0;
+    width: 111px;}
 @media screen and (max-width: 1500px) {
 .float_box{position:fixed;width:200px;padding:15px;top:15%;right:0;}
 }
@@ -223,7 +231,7 @@ div.it_block1{padding:60px 25px;line-height:1.3;}
 	.product_color span em{width:35px;height:17px;}
 	}
 @media screen and (max-width: 800px) {
-	#video{display:none;}
+	.zolo-player-wrapper{display:none;}
 	.header{text-align:center;}	
 	.it_five .it_three{padding:20px 0;}
 	.logo{float:none;margin:0;}
