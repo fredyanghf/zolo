@@ -47,7 +47,7 @@
 
                                 Zolo Cable Clips<br>
 
-                                Zolo Touch Case + Impact Screen Protector</h4></div></div>
+                                Zolo Tough Case + Impact Screen Protector</h4></div></div>
                     <div class="ithover it_two_hover_bg"></div>
                     <img src="images/p2.jpg" />  
                 </div>    </a>
@@ -63,7 +63,7 @@
 
                                 Zolo Cable Clips<br>
 
-                                Zolo Touch Case + Impact Screen Protector</h4></div></div>
+                                Zolo Tough Case + Impact Screen Protector</h4></div></div>
                     <div class="ithover it_two_hover_bg"></div>
                     <img src="images/p3.jpg" />  
                 </div>   
