@@ -7,7 +7,7 @@
                 <a href="<?php echo linkto('index.php'); ?>">Home</a>
                 <a href="<?php echo linkto('product.php'); ?>">Products</a>
                 <a href="<?php echo linkto('referral.php'); ?>">Referral Content</a>
-                <!--<a href="">FAQ</a>-->
+                <a href="<?php echo linkto('faq.php'); ?>">FAQ</a>
                 <!--<a href="">Forum</a>-->
             </div>
             <!--end.nav-->
