@@ -300,7 +300,7 @@
                     The person who refers the most people who donateat least $15 to our campaign will win<br>
 
                     <strong class="font_color2">FREE ZOLO PRODUCTS FOR LIFE!</strong><br>
-                    <a href="" class="more">LEARN MORE</a> </div>
+                    <a href="<?php echo linkto('referral.php'); ?>" class="more">LEARN MORE</a> </div>
             </div>
             <!--it_nine-->
         </div>
