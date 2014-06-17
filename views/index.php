@@ -143,8 +143,7 @@
                         <p class="itf_content">We ship direct to you so there's no middleman and unnecessary costs.</p>
                     </li>
                     <li>
-                        <p class="itf_title"><img src="images/4.png" /><strong>Premium Quality
-                                e</strong>
+                        <p class="itf_title"><img src="images/4.png" /><strong>Premium Quality</strong>
                         </p>
                         <p class="itf_content">Products that you can trust, so you can worry less and live more.</p>
                     </li>
@@ -202,7 +201,7 @@
                 <div class="gray_bg2">
                     <p><img src="images/13.jpg" /></p>
                     <p class="price">
-                        <strong class="price_count">$15<em>Power + Protection Pack</em></strong>
+                        <strong class="price_count">$18<em>Power + Protection Pack</em></strong>
                         <span class="price_txt">2X Zolo 1x Battery. Tough Case for iPhone 5s, 6* or Samsung GALAXY S5, Short Cable, 2 Cable Clips</span>
                     </p> 
                     <div class="ithover"></div>
@@ -242,7 +241,7 @@
                 <div class="orange_bg">    
                     <p><img src="images/16.jpg" /></p>
                     <p class="price">
-                        <strong class="price_count">$1000<em> Zolo Lifer</em></strong>
+                        <strong class="price_count">$1,000<em> Zolo Lifer</em></strong>
                         <span class="price_txt">Get a new Zolo product every time we release something new for life.</span>
                     </p> 
                     <div class="ithover"></div>  
@@ -269,7 +268,8 @@
             <div class="it_nine">
                 <div class="half_boxs padding_top1 right"><img src="images/22.gif" /></div>
                 <div class="half_box left">
-                    <div class="title_wrap"><h3 class="title">FROM OUR DOOR TO YOURS</h3></div>
+                    <!--<div class="title_wrap"><h3 class="title">FROM OUR DOOR TO YOURS</h3></div>-->
+                    <div class="title_wrap"><h3 class="title">HOW ARE WE ABLE TO OFFER SUCH LOW PRICES?</h3></div>
 
                     When our direct to consumer model is supported by an engaged community,  we'll be able to work smarter together in keeping costs down for everyone.
                     <br>
@@ -293,7 +293,7 @@
                 <div class="half_boxs right"><img src="images/20.jpg" /></div>
                 <div class="half_box padding_top2 left">
                     <div class="title_wrap"><h3 class="title">REFERRAL REWARDS</h3></div>
-                    We hope to reach as many people as possible with your help. With our referral rewards program you can earn a free Zolo Travel Stand for referring 10+ people who each donate at least $15 to our campaign.
+                    We hope to reach as many people as possible with your help. With our referral rewards program you can earn a free Zolo Travel Stand for referring 10+ people who each donate at least $13 to our campaign.
                     <br>
                     <br>
 
