@@ -88,7 +88,7 @@ What does it take to become our Zolo Lifer? A broad network, smooth-talking fine
 <!--end.block-->
 </div>
 <!--end.block-->
-<div class="blocks orange_bg it_two">
+<div class="block orange_bg it_two">
 <div class="footer block inner_footer">
 <div class="footer_top">
 <img src="images/logo2.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Everyday smart tools that integrate seamlessly into your lifestyle.
@@ -104,11 +104,6 @@ What does it take to become our Zolo Lifer? A broad network, smooth-talking fine
 <!--end.footer_center-->
 </div>
 </div>
-<!--end.blocks-->
-<div class="footer_bottom">
-<div class="lang"><a href=""></a></div>
-</div>
-<!--end.footer_bottom-->
 <!--end.blocks-->
 <div class="float_box">
 	<div class="float_box_btn float_box_btn_close"></div>

@@ -29,7 +29,6 @@
         </script>
     </head>
     <body>
-        <div class="wrap">
             <?php
             include BLOCK_PATH . '/navbar.php';
             ?>
@@ -330,11 +329,5 @@ The person who refers the most people who donateat least $15 to our campaign wi
 </div>
 </div>
 <!--end.blocks-->
-<div class="footer_bottom">
-<div class="lang"><a href=""><img src="images/en_flag.gif" /> English</a> &bull; <a href=""><img src="images/en_flag.gif" />  日本语</a></div>
-</div>
-<!--end.footer_bottom-->
-</div>
-<!--end.wrap-->
 </body>
 </html>

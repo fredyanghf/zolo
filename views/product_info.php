@@ -68,7 +68,7 @@
             </div>
         </div>
         <!--end.block-->
-        <div class="blocks orange_bg it_two">
+        <div class="block orange_bg it_two">
             <div class="footer block inner_footer">
                 <div class="footer_top">
                     <img src="images/logo2.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Everyday smart tools that integrate seamlessly into your lifestyle.
@@ -85,9 +85,5 @@
             </div>
         </div>
         <!--end.blocks-->
-        <div class="footer_bottom">
-            <div class="lang"><a href=""></a></div>
-        </div>
-        <!--end.footer_bottom-->
     </body>
 </html>
