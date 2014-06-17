@@ -190,7 +190,7 @@ We are continuing to grow our ecosystem of products.</p>
 	<div class="gray_bg2">  
     	<p><img src="images/12.jpg" /></p>
         <p class="price">
-    	<strong class="price_count">$15<em>Power Pack</em></strong>
+    	<strong class="price_count">$13<em>Power Pack</em></strong>
         <span class="price_txt">Zolo 1x Battery, Short Cable, 2 Cable Clips.</span>
     </p>
 <div class="ithover"></div>
@@ -202,7 +202,7 @@ We are continuing to grow our ecosystem of products.</p>
     <div class="gray_bg2">
     <p><img src="images/13.jpg" /></p>
         <p class="price">
-    	<strong class="price_count">$20<em>Power + Protection Pack</em></strong>
+    	<strong class="price_count">$15<em>Power + Protection Pack</em></strong>
         <span class="price_txt">2X Zolo 1x Battery. Tough Case for iPhone 5s, 6* or Samsung GALAXY S5, Short Cable, 2 Cable Clips</span>
     </p> 
         <div class="ithover"></div>
@@ -216,7 +216,7 @@ We are continuing to grow our ecosystem of products.</p>
 	<div class="gray_bg7">   
     	<p><img src="images/14.jpg" /></p>
         <p class="price">
-    	<strong class="price_count">$29<em>Power Pack X2</em></strong>
+    	<strong class="price_count">$25<em>Power Pack X2</em></strong>
         <span class="price_txt">2X Zolo 1x Battery. Short Cable, 2 Cable Clips.</span>
     </p>
     <div class="ithover"></div>
@@ -228,7 +228,7 @@ We are continuing to grow our ecosystem of products.</p>
     <div class="gray_bg7">   
     <p><img src="images/15.jpg" /></p>
         <p class="price">
-    	<strong class="price_count">$39<em>Power + Protection Pace X2</em></strong>
+    	<strong class="price_count">$35<em>Power + Protection Pace X2</em></strong>
         <span class="price_txt">2X Zolo 1x Battery. Tough Case for iPhone 5s, 6* or Samsung GALAXY S5, Short Cable, 2 Cable Clips.</span>
     </p>  
     <div class="ithover"></div>  
