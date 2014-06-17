@@ -34,6 +34,7 @@
         ?>
 
         <!--end.blocks-->
+        <div class="wrap">
         <div class="block orange_bg padding_box" id="video">
             <div class="block" style="text-align:center">
                 <div class="zolo-player-wrapper"><div data-target="//www.youtube.com/embed/i5u12Wt95Nk?autoplay=1&amp;controls=0&amp;modestbranding=1&amp;showinfo=0" class="zolo-player"><div class="zolo-btn-container"><div class="zolo-btn-play"></div></div></div></div>
@@ -327,6 +328,7 @@
                 </div>
                 <!--end.footer_center-->
             </div>
+        </div>
         </div>
         <!--end.blocks-->
 
