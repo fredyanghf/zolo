@@ -74,6 +74,7 @@ div.it_block1{padding:60px 25px;line-height:1.3;}
 .title{margin:0 auto;display:inline-block;padding-bottom:2px;text-align:center;color:#666;font-size:40px;border-bottom:3px solid #666;font-family:"booster_next_fybold";}
 .titles span{display:inline-block;}
 .titles em{display:block;padding-top:15px;font-size:20px;text-align:center;}
+
 .title3{margin-bottom:10px;text-decoration:underline;}
 .more{display:inline;float:left;padding:10px 50px;font-size:28px;}
 .m_hover{position:relative;display:block;transition: all 0.3s ease-out 0s;}
@@ -85,8 +86,9 @@ div.it_block1{padding:60px 25px;line-height:1.3;}
     width: 100%;z-index:2; Alpha(opacity=0); -moz-opacity:0; opacity:0; }
 .m_hover:hover .ithover{ Alpha(opacity=100); -moz-opacity:1; opacity:1; }
 /**/
-.header{padding:20px 5%;}
+.header{padding:20px 5%;overflow:hidden;}
 .small_nav{position:relative;}
+.small_color{display:none;}
 .small_nav_ico{display:none;width:30px;height:30px;float:right;margin:0 20px 0 0;background-image:url(../images/small_nav.png);cursor:pointer;}
 .logo{width:120px;height:48px;float:left;}
 .nav{padding-top:30px;float:right;}
@@ -142,6 +144,8 @@ div.it_block1{padding:60px 25px;line-height:1.3;}
 .footer .more{color:#fff;border:2px solid #fff;}
 .footer .half_boxs{width:auto;margin-right:10px;}
 .footer_top,.footer_center{width:80%;margin:0 auto;text-align:left;}
+
+.inner_footer .footer_top,.inner_footer .footer_center{width:90%;}
 .footer_center .half_boxs{width:40%;}
 .footer_center{padding:10px 0;}
 .footer_bottom{padding:10px 0;text-align:center;font-size:14px;}
@@ -217,7 +221,7 @@ div.it_block1{padding:60px 25px;line-height:1.3;}
 }
 @media screen and (max-width: 900px) {
 	
-	.title_wrap .title2,.block .font_size2{font-size:50px;display:inline-block;border:0;text-decoration:underline;}
+	.title_wrap .title2,.block .font_size2,.product_page .title{font-size:50px;display:inline-block;border:0;text-decoration:underline;}
 	}
 @media screen and (max-width: 800px) {
 	#video{display:none;}
@@ -240,38 +244,50 @@ div.it_block1{padding:60px 25px;line-height:1.3;}
 	.right_text{text-align:center;}	
 	.it_nine .half_boxs{padding-bottom:20px;}
 	}
+	@media screen and (max-width: 610px) {		
+	.product_item_pic,.product_buy,.product_price{float:none;}
+	.product_item_pic,.product_price{width:100%;}
+	body.inner_page{font-size:14px;}
+		}
 @media screen and (max-width: 600px) {
+	.big_color{display:none;}
+	.product_info .title{text-decoration:underline;}
+	.product_color span,.product_color span i{width:25px;height:25px;line-height:25px;}
+	.header{overflow:visible;}
 	.it_seven .half_boxs{margin-top:10px;}
+	.titles em{padding-top:5px;}
 	.title_wrap .title2{font-size:30px;}
 	.padding_top1,.title_wrap .title2{padding:0;}
 	.block .font_size2,.it_nine h3,.more{font-size:16px;}
 	.it_nine{margin:10px auto;}
 	.padding_box2{padding:40px 0;}
-	.font_size1,.it_five .cut_box .box_content{font-size:14px;}
+	.small_titles{padding-bottom:20px;}
+	.font_size1,.it_five .cut_box .box_content,body,.title_wrap h4,.body.inner_page,.product_color span{font-size:14px;}
 	div.it_block1{padding:20px;}
 	.small_nav{padding:10px 0 30px;}
-	.small_nav_ico{display:block;}
+	.small_nav_ico,.small_color{display:block;}
 	.nav{position:absolute;display:none;width:50%;top:30px;padding:0;right:20px;background:#EF473D;z-index:10;text-align:left;text-indent:20px;}
 	.nav a{width:100%;padding:5px 0;}
 	.logo{float:left;margin-left:20px;}
 	.product_color{text-align:center;}
+	.product_item_pic,.product_buy{float:none;}
 	.product_color span{display:inline-block;float:none;}
 	.product_item_wrapper{width:80%;margin:0 auto;float:none;}
 	.product_nav{display:none;}
-	.product_item_pic,.product_container{width:100%;}
+	.product_item_pic,.product_container,.product_price{width:100%;}
 	.small_titles,.product_content{display:block;}
-	body,.title_wrap h4{font-size: 14px;}
 	.it_seven .half_boxs{min-height:0;}
 	.price_count{font-size:26px;}
 	.price_count em{font-size:16px;}
 	.price_txt{font-size:16px;}
-	.title{width:100%;font-size:24px;}
+	.title,.product_page .title{width:100%;font-size:24px;}
 	.it_three h3{font-size:18px;}
 	.it_three{padding:25px 0 10px;}
 	.it_two{padding:20px 0;}
 	.it_two p{padding:0;}
 	.product_price{width:auto;float:left;}
-	.product_buy{margin-top:10px;float:right;}
+	.product_content{margin-bottom: 10px;padding:20px 10px;background:#f5f5f5;}
+	.product_buy{float:left;margin-top:10px;}
 .it_four li {
     float: left;
     font-size: 12px;
