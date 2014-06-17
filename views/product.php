@@ -28,7 +28,7 @@
         <!--end.blocks-->
 <div class="block product_page">
 	<div class="block"><div class="title_wrap"><h2 class="title">POWER PACK</h2></div></div>
-    <a href=""><div class="it_two it_two_hover">
+    <a href="<?php echo linkto('product_info.php'); ?>"><div class="it_two it_two_hover">
     <div class="ithover it_two_hover_txt"><div class="title_wrap"><h4>Zolo 1x Battery<br>
 Zolo Short Cable<br>
 Zolo Cable Clips</h4>
@@ -40,7 +40,7 @@ Zolo Cable Clips</h4>
 <!--end.block-->
 <div class="block product_page">
 <div class="block"><div class="title_wrap"><h2 class="titles"><span class="title">POWER + PROTECTION PACK</span><em>for iPhone 5s</em></h2></div></div>
-    <a href=""><div class="it_two it_two_hover">
+    <a href="<?php echo linkto('product_info.php'); ?>"><div class="it_two it_two_hover">
     	<div class="ithover it_two_hover_txt"><div class="title_wrap"><h4>Zolo 1x Battery<br>
 
 Zolo Short Cable<br>
@@ -55,7 +55,7 @@ Zolo Touch Case + Impact Screen Protector</h4></div></div>
 <!--end.block-->
 <div class="block product_page">
 <div class="block">	<div class="title_wrap"><h2 class="titles"><span class="title">POWER + PROTECTION PACK</span><em>for Samsung S5</em></h2></div></div>
-    <a href="product_info.html">
+    <a href="<?php echo linkto('product_info.php'); ?>">
     <div class="it_two it_two_hover">
     <div class="ithover it_two_hover_txt"><div class="title_wrap"><h4>Zolo 1x Battery<br>
 
