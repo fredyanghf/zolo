@@ -85,5 +85,37 @@
             </div>
         </div>
         <!--end.blocks-->
+
+        <?php
+        $pair = array(
+            'p1' => 'bundle1',
+            'p2' => 'bundle2',
+            'p3' => 'bundle3'
+        );
+        ?>
+        <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+        <!--  Product page tag ---->
+        <script type="text/javascript">
+            window.criteo_q = window.criteo_q || [];
+            window.criteo_q.push(
+                {event: "setAccount", account: 14599},
+                {event: "setSiteType", type: "d"},
+                {event: "viewItem", item: "<?php echo $pair[$p]; ?>"}
+            );
+        
+            function clickoutconv(pid, price)
+            {
+                window.criteo_q = window.criteo_q || [];
+                criteo_q.push(
+                        {event: "setAccount", account: 14599},
+                {event: "setSiteType", type: "d"},
+                {event: "trackTransaction",
+                    id: Math.floor(Math.random() * 99999999999),
+                    item: [
+                        {id: pid, price: price, quantity: "1"}
+                    ]});
+            }
+        </script>
+
     </body>
 </html>

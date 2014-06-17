@@ -329,5 +329,18 @@
             </div>
         </div>
         <!--end.blocks-->
+
+        <!--  Home page tag ---->
+
+        <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+        <script type="text/javascript">
+            window.criteo_q = window.criteo_q || [];
+            window.criteo_q.push(
+                    {event: "setAccount", account: 14599},
+            {event: "setSiteType", type: "d"},
+            {event: "viewHome"}
+            );
+
+        </script>
     </body>
 </html>

@@ -87,5 +87,17 @@
             </div>
         </div>
         <!--end.blocks-->
+
+
+        <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+        <!--  Listing page tag ---->
+        <script type="text/javascript">
+        window.criteo_q = window.criteo_q || [];
+        window.criteo_q.push(
+                {event: "setAccount", account: 14599},
+        {event: "setSiteType", type: "d"},
+        {event: "viewList", item: ["bundle1", "bundle2", "bundle3"]}
+        );
+        </script>
     </body>
 </html>
