@@ -1,9 +1,9 @@
 <div class="product_item_pic"><img id="pip" src="images/power_1.jpg" /></div>
 <div class="product_item_wrapper">
-    <!--
+    
     <div class="product_color small_color">
         <span rel="images/Power + Protection1 (Galaxy S5).jpg" class="hover"><em></em><i>1</i></span> <span class="pc_black" rel="images/Power + Protection2 (Galaxy S5).jpg"><em></em><i>2</i></span> <span rel="images/Power + Protection3 (Galaxy S5).jpg"><em class="pc_blue"></em><i>3</i></span> <span rel="images/Power + Protection4 (Galaxy S5).jpg"><em class="pc_red"></em><i>4</i></span>
-    </div>-->
+    </div>
     <ul class="product_item_spec">
         <li>&bull; One charge to most smartphones.</li>
         <li>&bull; Magnetic cable clips work with most cords.</li>
