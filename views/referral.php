@@ -35,10 +35,10 @@
         include BLOCK_PATH . '/navbar.php';
         ?>
         <!--end.blocks-->
-        <div class="block padding_box" style="padding-top:20px; padding-bottom: 10px;">	
-            <div class="it_two" style="padding:0;">
+        <div class="block">	
+            <div class="it_two">
                 <p>To keep our prices low without compromising quality, we need your help to build scale. Spread the word about our products and our vision, and earn some great perks while you're at it.  </p>
-                <p><img src="images/30.jpg" /></p>
+                <img src="images/30.jpg" />
             </div>
             <!--end.block-->
         </div>
@@ -78,8 +78,7 @@
                     <p>1) Fund our campaign, and be sure you create a Indiegogo account if you haven't already.
                         2) While logged in, use the sharing toolbar under our campaign video to post on Facebook, Twitter, Google+ or get your unique link to email or share anywhere on the web. 
                     </p>
-                    <p><img src="images/34.jpg" /></p>
-                    <p><a class="more" href="">SHARE NOW</a></p>
+                    <img src="images/34.jpg" />
                 </div>
                 <div class="title_wrap it_two"><h2 class="titles"><span class="title">HOW TO TRACK PROGRESS</span></h2></div>
                 <div class="it_two"><p>1) Login to your Indiegogo account and click "My Contributions"</p>
@@ -92,6 +91,7 @@
             <!--end.block-->
         </div>
         <!--end.block-->
+         <div class="it_two it_ten"><p><a class="more" href="">SHARE NOW</a></p></div>
         <div class="block orange_bg it_two">
             <div class="footer block inner_footer">
                 <div class="footer_top">
