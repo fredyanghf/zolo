@@ -59,7 +59,7 @@ a:hover { color: #666; }
 .font_size1{font-size:29px;}
 .block .font_size2{font-size:50px;}
 div.it_block1{padding:60px 25px;line-height:1.3;}
-.padding_box{padding:60px 0;}
+.padding_box{padding:0px 0 60px 0;}
 .padding_box2{padding:65px 0;}
 .padding_top1{padding-top:20px;}
 .padding_top2{padding-top:10px;}

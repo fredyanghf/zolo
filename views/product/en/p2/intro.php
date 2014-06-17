@@ -7,7 +7,7 @@
     <ul class="product_item_spec">
         <li>&bull; One charge to most smartphones.</li>
         <li>&bull; Magnetic cable clips work with most cords.</li>
-        <li>&bull; 7 inch Micro USB cable with Magnetic ends.</li>
+        <li>&bull; 7 inch Micro USB cable with magnetic ends.</li>
         <li>&bull; Military grade protection case.</li>
         <li>&bull; Impact resistant screen protector.</li>
     </ul>
