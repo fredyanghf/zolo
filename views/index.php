@@ -170,7 +170,7 @@
         </div>
 
         <div class="block it_six">
-            <a class="m_hover" href="">
+            <a class="m_hover" href="https://www.indiegogo.com/projects/zolo-premium-magnetic-connect-mobile-gear-for-all/contributions/new?perk_amt=2&perk_id=2079601">
                 <div class="block gray_bg">
                     <div class="left">
                         <p class="price w1">
@@ -186,7 +186,7 @@
         </div>
         <!--end.block-->
         <div class="block it_seven">
-            <a class="half_boxs it_seven_left left m_hover" href="">
+            <a class="half_boxs it_seven_left left m_hover" href="https://www.indiegogo.com/projects/zolo-premium-magnetic-connect-mobile-gear-for-all/contributions/new?perk_amt=13&perk_id=2079602">
                 <div class="gray_bg2">  
                     <p><img src="images/12.jpg" /></p>
                     <p class="price">
@@ -198,7 +198,7 @@
 
             </a>
             <!--end.half_boxs-->
-            <a class="half_boxs right m_hover" href="">
+            <a class="half_boxs right m_hover" href="https://www.indiegogo.com/projects/zolo-premium-magnetic-connect-mobile-gear-for-all/contributions/new?perk_amt=18&perk_id=2079603">
                 <div class="gray_bg2">
                     <p><img src="images/13.jpg" /></p>
                     <p class="price">
@@ -212,7 +212,7 @@
         </div>
         <!--end.block-->
         <div class="block it_seven">
-            <a class="m_hover half_boxs it_seven_left left" href="">
+            <a class="m_hover half_boxs it_seven_left left" href="https://www.indiegogo.com/projects/zolo-premium-magnetic-connect-mobile-gear-for-all/contributions/new?perk_amt=25&perk_id=2079604">
                 <div class="gray_bg7">   
                     <p><img src="images/14.jpg" /></p>
                     <p class="price">
@@ -224,7 +224,7 @@
 
             </a>
             <!--end.half_boxs-->
-            <a class="m_hover half_boxs right" href="">
+            <a class="m_hover half_boxs right" href="https://www.indiegogo.com/projects/zolo-premium-magnetic-connect-mobile-gear-for-all/contributions/new?perk_amt=35&perk_id=2079605">
                 <div class="gray_bg7">   
                     <p><img src="images/15.jpg" /></p>
                     <p class="price">
@@ -238,7 +238,7 @@
         </div>
         <!--end.block-->
         <div class="block it_seven">
-            <a class="m_hover half_boxs left" href="">
+            <a class="m_hover half_boxs left" href="https://www.indiegogo.com/projects/zolo-premium-magnetic-connect-mobile-gear-for-all/contributions/new?perk_amt=1000&perk_id=2079608">
                 <div class="orange_bg">    
                     <p><img src="images/16.jpg" /></p>
                     <p class="price">
@@ -249,7 +249,7 @@
                 </div>
             </a>
             <!--end.half_boxs-->
-            <a class="m_hover half_boxs right " href="">
+            <a class="m_hover half_boxs right " href="https://www.indiegogo.com/projects/zolo-premium-magnetic-connect-mobile-gear-for-all/contributions/new?perk_amt=10000&perk_id=2079609">
                 <div class="orange_bg">    
                     <p><img src="images/17.jpg" /></p>
                     <p class="price">
