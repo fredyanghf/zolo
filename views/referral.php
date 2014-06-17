@@ -8,7 +8,7 @@
         <link href="css/css.css" rel="stylesheet" type="text/css" />
         <script type="text/javascript" src="js/jquery.js" ></script>
         <script type="text/javascript">
-           $(function(){
+$(function(){
 $(".small_nav_ico").click(function(){
 	  if ($(".nav").is(':hidden')) 
 	  {$(".nav").show();} 
@@ -24,21 +24,21 @@ $(".small_nav_ico").click(function(){
 		$(".float_box").animate({right: '0'}, "fast");
 });
 	})
-        </script>
+</script>
     </head>
     <body class="inner_page">
         <?php
         include BLOCK_PATH . '/navbar.php';
         ?>
         <!--end.blocks-->
-        <div class="block padding_box">
-            <div class="it_two">
-                <p>To keep our prices low without compromising quality, we need your help to build scale. Spread the word about our products and our vision, and earn some great perks while you're at it.  </p>
-                <p><img src="images/30.jpg" /></p>
-            </div>
-            <!--end.block-->
-        </div>
-        <!--end.block-->
+      <div class="block padding_box">	
+    <div class="it_two">
+        <p>To keep our prices low without compromising quality, we need your help to build scale. Spread the word about our products and our vision, and earn some great perks while you're at it.  </p>
+        <p><img src="images/30.jpg" /></p>
+    </div>
+<!--end.block-->
+</div>
+<!--end.block-->
 <div class="block">
 		<div class="title_wrap it_two"><h2 class="titles"><span class="title">WHAT YOU WIN</span></h2></div>
         <div class="block font_color1">
