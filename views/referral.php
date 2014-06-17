@@ -32,7 +32,6 @@ $(".small_nav_ico").click(function(){
         ?>
         <!--end.blocks-->
         <div class="block padding_box">
-
             <div class="it_two">
                 <p>To keep our prices low without compromising quality, we need your help to build scale. Spread the word about our products and our vision, and earn some great perks while you're at it.  </p>
                 <p><img src="images/30.jpg" /></p>
